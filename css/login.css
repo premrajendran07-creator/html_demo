@@ -9,5 +9,6 @@ body{
 .login_container{
     padding: 40px;
     background-color: aqua;
+    border-radius: 20px;
 }
 
