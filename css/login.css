@@ -1,14 +1,16 @@
-body{
-    background-color: beige;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 90vh;
-}
-
 .login_container{
     padding: 40px;
     background-color: aqua;
     border-radius: 20px;
+    
 }
 
+.forget_password{
+    text-align: right;
+    margin-bottom: 10px;
+  
+}
+
+.sign-in{
+border-radius: 2px;
+}

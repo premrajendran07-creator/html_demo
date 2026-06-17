@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.center-space{
+    text-align: center;
+    }
+
+.input-box{
+  width: 80%;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
